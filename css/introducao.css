@@ -21,7 +21,7 @@
   display: block;
   width: 6px;
   height: 35px;
-  background-image: url("./img/detalhe.svg");
+  background-image: url("/img/detalhe.svg");
   position: absolute;
   top: 0px;
   left: -30px;
